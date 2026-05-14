@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="review-article">
+  <front>
+    <article-meta>
+      <article-id pub-id-type="pmc">PMC1234567</article-id>
+      <title-group><article-title>A review of autism spectrum disorder interventions</article-title></title-group>
+      <pub-date pub-type="epub"><year>2022</year><month>03</month><day>15</day></pub-date>
+      <permissions><license license-type="open-access">
+        <license-p>This is an open access article distributed under the terms of the Creative Commons CC BY 4.0 license.</license-p>
+      </license></permissions>
+      <kwd-group><kwd>autism spectrum disorder</kwd><kwd>intervention</kwd></kwd-group>
+      <abstract><p>This review summarises evidence for ASD interventions across multiple modalities and populations.</p></abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec><title>Introduction</title><p>Autism spectrum disorder is a developmental condition that affects social communication.</p></sec>
+    <sec><title>Methods</title><p>We reviewed fifty studies of behavioural interventions for autistic children and adults.</p></sec>
+  </body>
+</article>

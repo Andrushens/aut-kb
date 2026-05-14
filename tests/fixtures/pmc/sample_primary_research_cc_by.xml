@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article">
+  <front>
+    <article-meta>
+      <article-id pub-id-type="pmc">PMC2222222</article-id>
+      <title-group><article-title>Neuroimaging biomarkers in autism spectrum disorder</article-title></title-group>
+      <pub-date pub-type="epub"><year>2021</year><month>06</month><day>01</day></pub-date>
+      <permissions><license license-type="open-access">
+        <license-p>This is an open access article distributed under the terms of the Creative Commons CC BY 4.0 license.</license-p>
+      </license></permissions>
+      <kwd-group><kwd>autism</kwd><kwd>fMRI</kwd></kwd-group>
+      <abstract><p>We report novel fMRI findings comparing autistic and neurotypical participants.</p></abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec><title>Methods</title><p>Forty participants underwent functional MRI scanning during a face-processing task.</p></sec>
+  </body>
+</article>

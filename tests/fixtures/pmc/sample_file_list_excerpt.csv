@@ -1,0 +1,6 @@
+File,Article Citation,AccessionID,LastUpdated,PMID,License
+oa_package/00/01/PMC1234567.tar.gz,Author A et al. Review J. 2022;1(1):1-10,PMC1234567,2022-03-15 00:00:00,11111111,CC BY
+oa_package/00/02/PMC2222222.tar.gz,Author B et al. Neuro J. 2021;2(2):50-60,PMC2222222,2021-06-01 00:00:00,22222222,CC BY
+oa_package/00/03/PMC3333333.tar.gz,Author C et al. Ther J. 2020;3(3):100-110,PMC3333333,2020-09-22 00:00:00,33333333,CC BY-NC
+oa_package/00/04/PMC4444444.tar.gz,Author D et al. Cardio J. 2023;4(4):200-210,PMC4444444,2023-01-10 00:00:00,44444444,CC BY
+oa_package/00/05/PMC5555555.tar.gz,Author E et al. Misc J. 2019;5(5):300-310,PMC5555555,2019-04-05 00:00:00,55555555,NO-CC

@@ -1,0 +1,27 @@
+nice-guidelines:
+  - item_id: cg128
+    url: https://example.test/cg128.pdf
+  - item_id: cg142
+    url: https://example.test/cg142.pdf
+who-autism:
+  - item_id: autism-spectrum-disorders
+    url: https://example.test/who-autism.html
+    kind: html
+  - item_id: autism-fact-sheet-pdf
+    url: https://example.test/who-autism.pdf
+    kind: pdf
+cdc-ltsae:
+  - item_id: milestones-overview
+    url: https://example.test/cdc/ltsae/milestones.html
+    kind: html
+  - item_id: milestones-checklist-2y
+    url: https://example.test/cdc/ltsae/checklist-2y.pdf
+    kind: pdf
+nih-nimh:
+  - item_id: autism-spectrum-disorder
+    url: https://example.test/nimh/asd.html
+  - item_id: autism-statistics
+    url: https://example.test/nimh/stats.html
+medlineplus-autism:
+  - item_id: autism-spectrum-disorder
+    url: https://example.test/medlineplus/asd.html

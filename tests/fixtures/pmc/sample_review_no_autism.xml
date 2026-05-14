@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="review-article">
+  <front>
+    <article-meta>
+      <article-id pub-id-type="pmc">PMC4444444</article-id>
+      <title-group><article-title>A review of cardiovascular disease prevention</article-title></title-group>
+      <pub-date pub-type="epub"><year>2023</year><month>01</month><day>10</day></pub-date>
+      <permissions><license license-type="open-access">
+        <license-p>This is an open access article distributed under the terms of the Creative Commons CC BY 4.0 license.</license-p>
+      </license></permissions>
+      <kwd-group><kwd>cardiology</kwd><kwd>prevention</kwd></kwd-group>
+      <abstract><p>We summarise current evidence on cardiovascular disease prevention strategies.</p></abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec><title>Introduction</title><p>Cardiovascular disease remains the leading cause of mortality globally.</p></sec>
+  </body>
+</article>
